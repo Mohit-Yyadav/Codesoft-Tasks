@@ -11,9 +11,7 @@ Welcome to the Cars Landing Page repository! This project features a dynamic web
 
 ## How to Use
 1. Clone the repository to your local machine.
-   ```bash
-  
-   ```
+
 
 2. Open the `index.html` file in your preferred web browser to access the Cars Landing Page.
 
