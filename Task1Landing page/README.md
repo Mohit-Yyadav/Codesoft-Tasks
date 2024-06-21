@@ -2,13 +2,7 @@
 
 Welcome to the Cars Landing Page repository! This project features a dynamic webpage dedicated to showcasing various luxury car models. Explore the sleek design and smooth transitions as you navigate through different car sections.
 
-## Demo
 
-Check out the live demo on [CodePen](https://codepen.io/Hunterdii/pen/XWGRXZd).
-
-## Preview
-
-![Cars Landing Page Preview](https://github.com/Hunterdii/Codesoft-Tasks/assets/124852522/5e508f0b-2760-427a-91f4-982839d41bc6)
 
 ## Features
 - **Interactive Navigation:** Effortlessly explore different car models with a user-friendly navigation menu.
@@ -18,7 +12,7 @@ Check out the live demo on [CodePen](https://codepen.io/Hunterdii/pen/XWGRXZd).
 ## How to Use
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Codesoft-Tasks/Task1Landing page.git
+  
    ```
 
 2. Open the `index.html` file in your preferred web browser to access the Cars Landing Page.
@@ -52,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE).
 - **Background Images:** Unsplash contributors
 - **Color Theme:** Black, Gold, and White
 
-Explore, enjoy, and share your love for luxury cars through this Cars Landing Page! If you encounter any issues or have suggestions, please create an [issue](https://github.com/your-username/Hunterdii/issues). 
+Explore, enjoy, and share your love for luxury cars through this Cars Landing Page! If you encounter any issues or have suggestions, please create an [issue](s). 
 
 
 ⭐ Star this repository if you find it intriguing! ⭐
